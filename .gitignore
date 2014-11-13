@@ -1,0 +1,7 @@
+*~
+*.bak
+*.or
+*.o
+*.so
+*.cache
+build
