@@ -30,4 +30,5 @@ that uses all kinds of dynamic linker and kernel magic to find out the
 full path of your executable or library. BinReloc is meant to be
 included in your project and adds no dependancies that you don't want.
 
-Please go to http://listaller.tenstral.net/docs/binreloc/ for a complete guide.
+Please go to http://listaller.tenstral.net/docs/chap-Listaller-App-Development.html#sect-Listaller-App-Development-Relocation
+for a complete guide.
